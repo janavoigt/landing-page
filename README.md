@@ -25,9 +25,11 @@ The project auto-updates as you edit the files thanks to Vite’s fast HMR.
 
 ## Live Demo
 
+https://landing-page-sooty-alpha-29.vercel.app
+
 ## Technologies
 
-React – UI library
-TypeScript – Static type checking
-Vite – Fast build and development environment
-ESLint / Prettier – Code formatting and linting (optional)
+- React – UI library
+- TypeScript – Static type checking
+- Vite – Fast build and development environment
+- ESLint / Prettier – Code formatting and linting (optional)
